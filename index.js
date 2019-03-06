@@ -1,5 +1,4 @@
 // Code your solutions in this file
-const array = {}
-function printBadges() {
-  const.log(`${array}`);
+for (let i= 0; i > 5; i++){
+  console.lob (${i});
 }
